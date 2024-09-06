@@ -12,6 +12,8 @@ body {
     height: 100vh; /* Preenche a altura total da viewport */
     margin: 0;
     padding: 0;
+    background-image: url('https://wallpaperaccess.com/full/1555172.jpg');
+}
 }
 
 /* Estiliza os títulos h1 */
